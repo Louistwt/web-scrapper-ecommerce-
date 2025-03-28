@@ -1,10 +1,13 @@
-Example script for data collection on e-commerce website. Please be sensible on each requests for data collection.
+## Data Extraction for Consumer Hardware competition mapping
 
-Put this onto Replit `https://replit.com/` and run
+For educational purposes only.
+
+Put script onto Replit `https://replit.com/` and run
 
 Created to speed up data collection for analysis.
 
 ---
 ### 28-Mar-2025
 - Updating scripts
+- Uploaded original script
 - Creating flask app for user experience
