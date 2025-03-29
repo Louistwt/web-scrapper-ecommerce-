@@ -1,6 +1,6 @@
 ## Data Extraction for Consumer Hardware competition mapping
 
-For educational purposes only.
+For research purposes only.
 
 Put script onto Replit `https://replit.com/` and run
 
